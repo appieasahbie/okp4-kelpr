@@ -34,7 +34,6 @@
 + now lets return to faucet site and claim tokens with our kelpr wallet
 
 
-<img width="906" alt="1" src="https://user-images.githubusercontent.com/108979536/198314096-c5c0265d-30a2-4b7e-9389-73c904a477be.png">
 
 
 <img width="347" alt="7" src="https://user-images.githubusercontent.com/108979536/198314794-8ed5c15b-05c5-4b95-80ad-10da5491b846.png">
@@ -47,5 +46,10 @@
 <img width="258" alt="8" src="https://user-images.githubusercontent.com/108979536/198315099-741146a1-024b-4e27-a8fe-6ea0fea3787b.png">
 
 
+<img width="906" alt="1" src="https://user-images.githubusercontent.com/108979536/198314096-c5c0265d-30a2-4b7e-9389-73c904a477be.png">
 
+
+you request every 1 h 1 know
+
+Done 
 
